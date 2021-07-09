@@ -4,7 +4,7 @@ Photon Fusion のサンプルデモのひとつ「Hello Fusion」を Unity 上�
 ![Hello Fusion ScreenShot](images/HelloFusionScreenShot.jpg)
 
 ## 手順
-1. Photon Engine アカウントとアプリケーションの作成
+1. [Photon Engine アカウントとアプリケーションの作成](./CreateAccountAndApp.md)
 2. サンプルデモの実行
 
 ## 動作確認環境
